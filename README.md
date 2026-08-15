@@ -4,6 +4,10 @@ A conversational AI chatbot built with **Python, Google Gemini, and Streamlit** 
 
 The project focuses on understanding the core concepts behind modern LLM applications rather than simply calling an API.
 
+## 🚀 Live Demo
+
+👉 **[Try the AI Persona Assistant](https://ai-chatbot-prompt-engineering.streamlit.app/)**
+
 ---
 
 ## 📌 Project Overview
@@ -445,7 +449,11 @@ Potential future improvements include:
 
 ## 📌 Project Status
 
-**Completed ✅**
+**Completed and Deployed 🚀**
+
+The application is deployed using Streamlit and available as a live web application.
+
+👉 **[Launch AI Persona Assistant](https://ai-chatbot-prompt-engineering.streamlit.app/)**
 
 This project demonstrates the fundamentals of building a conversational Generative AI application using an LLM API, prompt engineering, memory management, streaming responses, and a web-based interface.
 
