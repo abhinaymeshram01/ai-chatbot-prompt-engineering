@@ -271,7 +271,7 @@ ai-chatbot-prompt-engineering/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-chatbot-prompt-engineering.git
+git clone https://github.com/abhinaymeshram01/ai-chatbot-prompt-engineering.git
 ```
 
 Navigate into the project:
